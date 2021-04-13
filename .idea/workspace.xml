@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce85bc50-aef7-4ee7-84ff-4c83d3da7ddd" name="Default Changelist" comment="Welcome page ready and 2 designs ready in html with contact page and connected to google forms">
+      <change afterPath="$PROJECT_DIR$/.idea/MusicX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/BTS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/bruno mars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/camila.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/cardiB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/drake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/edsheeran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/imagine dragons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/post malone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/taylorswift.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/xxxtentacion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI-2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r2KBkM8uFFYR9Ot47CKGwZvaDd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Pictures" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce85bc50-aef7-4ee7-84ff-4c83d3da7ddd" name="Default Changelist" comment="" />
+      <created>1618168611841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618168611841</updated>
+      <workItem from="1618168613580" duration="20942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Welcome page ready and 2 designs ready in html with contact page and connected to google forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Welcome page ready and 2 designs ready in html with contact page and connected to google forms" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618342016401">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="577" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618342016401" />
+    <state x="714" y="438" width="529" height="198" key="Github.ShareDialog" timestamp="1618350838979">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="714" y="438" width="529" height="198" key="Github.ShareDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618350838979" />
+    <state x="588" y="246" key="Github.UntrackedFilesDialog" timestamp="1618350859472">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="588" y="246" key="Github.UntrackedFilesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618350859472" />
+    <state x="341" y="177" width="757" height="1006" key="dock-window-1" timestamp="1618341320458">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="341" y="177" width="757" height="1006" key="dock-window-1/0.25.1680.1025@0.25.1680.1025" timestamp="1618341320458" />
+  </component>
+</project>
