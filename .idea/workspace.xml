@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce85bc50-aef7-4ee7-84ff-4c83d3da7ddd" name="Default Changelist" comment="Welcome page ready and 2 designs ready in html with contact page and connected to google forms">
-      <change afterPath="$PROJECT_DIR$/.idea/MusicX.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/BTS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/bruno mars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/camila.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/cardiB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/drake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/edsheeran.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/imagine dragons.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/post malone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/taylorswift.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/xxxtentacion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618168611841</updated>
-      <workItem from="1618168613580" duration="20942000" />
+      <workItem from="1618168613580" duration="21615000" />
     </task>
+    <task id="LOCAL-00001" summary="Welcome page ready and 2 designs ready in html with contact page and connected to google forms">
+      <created>1618351542524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618351542524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +88,10 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="588" y="246" key="Github.UntrackedFilesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618350859472" />
+    <state x="439" y="274" key="Vcs.Push.Dialog.v2" timestamp="1618351568345">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="439" y="274" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1618351568345" />
     <state x="341" y="177" width="757" height="1006" key="dock-window-1" timestamp="1618341320458">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
