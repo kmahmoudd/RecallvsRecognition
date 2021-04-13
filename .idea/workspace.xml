@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce85bc50-aef7-4ee7-84ff-4c83d3da7ddd" name="Default Changelist" comment="fixed proceed buttons to links and removed forms" />
+    <list default="true" id="ce85bc50-aef7-4ee7-84ff-4c83d3da7ddd" name="Default Changelist" comment="added Viewports">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI-1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618168611841</updated>
-      <workItem from="1618168613580" duration="21895000" />
+      <workItem from="1618168613580" duration="23150000" />
     </task>
     <task id="LOCAL-00001" summary="Welcome page ready and 2 designs ready in html with contact page and connected to google forms">
       <created>1618351542524</created>
@@ -67,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618352177662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added Viewports">
+      <created>1618352587093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618352587093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +86,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Welcome page ready and 2 designs ready in html with contact page and connected to google forms" />
     <MESSAGE value="fixed proceed buttons to links and removed forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed proceed buttons to links and removed forms" />
+    <MESSAGE value="added Viewports" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Viewports" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618342016401">
@@ -91,13 +102,18 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="588" y="246" key="Github.UntrackedFilesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618350859472" />
-    <state x="439" y="274" key="Vcs.Push.Dialog.v2" timestamp="1618352189659">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state x="439" y="255" key="Vcs.Push.Dialog.v2" timestamp="1618352598471">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="439" y="255" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1618352598471" />
     <state x="439" y="274" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1618352189659" />
     <state x="341" y="177" width="757" height="1006" key="dock-window-1" timestamp="1618341320458">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="341" y="177" width="757" height="1006" key="dock-window-1/0.25.1680.1025@0.25.1680.1025" timestamp="1618341320458" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1618352959899">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1618352959899" />
   </component>
 </project>
